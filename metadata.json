@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Eventos y Puntajes",
+  "description": "Un portal web interactivo para eventos juveniles con tabla de posiciones en tiempo real, desglose de desafíos y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
